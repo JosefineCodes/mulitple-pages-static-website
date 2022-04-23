@@ -8,6 +8,6 @@ h1 {
 }
 
 a {
-  text-align: center;
+  display: block;
   color: rgba(169, 169, 169, 0.69);
 }
